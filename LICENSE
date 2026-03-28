@@ -2,31 +2,42 @@
 
 Copyright (c) 2026 The Author(s)
 
-## 1. Grant of Rights
+## 1. Definitions
 
-This software and associated documentation files (the "Software") are granted for the following purposes only:
+- **Commercial Use**: Any use that generates revenue, profit, or business advantage, 
+  including but not limited to: SaaS models, consulting, internal business operations, 
+  or integration into commercial products
+- **Academic Research**: Research conducted by universities, research institutions, 
+  and individual researchers
 
-- **Academic Research**: Non-commercial academic research conducted by universities, research institutions, and individuals
-- **Personal Learning**: Personal learning, evaluation, or understanding of the Software's technical principles
-- **Non-Commercial Projects**: Any project or application that is not intended for commercial gain
+## 2. Grant of Rights
 
-## 2. Prohibited Uses
+Permission is granted to use the Software for the following purposes only:
 
-Without explicit written permission from the copyright holder, the following are strictly prohibited:
+- Academic research and teaching at educational institutions
+- Personal learning and evaluation
+- Non-profit research projects
 
-- Any commercial use of the Software or its derivatives, including but not limited to:
-  - Integration into commercial products or services
-  - Providing access to or use of the Software for a fee (including SaaS models)
-  - Internal use within an organization for commercial operations or business support
-- Removing or altering any copyright notices or license terms contained in the Software
+## 3. Prohibited Uses
 
-## 3. Disclaimer
+Without explicit written permission from the Copyright Holder:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+- **Commercial Use**: Any commercial application, integration into commercial products, 
+  or use by for-profit organizations
+- **Patent Filing**: Filing patent applications or claiming intellectual property rights 
+  related to this Software or its derivatives
+- **License Modification**: Removing, altering, or misrepresenting copyright notices 
+  or license terms
 
-## 4. Commercial Licensing
+## 4. Disclaimer
 
-For commercial use authorization, please contact the corresponding author of this software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT.
+
+## 5. Licensing & Contact
+
+For commercial use or exceptions to this License, please contact the copyright holder.
 
 ---
 
